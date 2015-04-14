@@ -1,0 +1,16 @@
+{
+  "name": "tumblr-clip",
+  "version": "0.0.0",
+  "description": "simple api to upload clips",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dave rice",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~4.12.3",
+    "config": "~1.12.0",
+    "tumblr.js": "0.0.4"
+  }
+}
