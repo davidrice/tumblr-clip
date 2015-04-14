@@ -1,0 +1,12 @@
+{
+	"tumblr": {
+		"blog":"",
+		"consumer_key":"",
+		"consumer_secret":"",
+		"token":"",
+		"token_secret":""
+	},
+	"server": {
+		"port": 9999
+	}
+}
